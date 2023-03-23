@@ -28,3 +28,7 @@ Atender os requisitos que constam no <a href="https://github.com/mariojorge/inte
 - Tamanho da janela: 600x400
 
 ![registro_transacoes](https://user-images.githubusercontent.com/107354811/226948238-6a55836b-67d0-467f-ad23-fb4a6bf38c8c.png)
+
+- [ ] Não deve ser possível excluir uma movimentação bancária
+- [ ] Deve ser possível obter o saldo de uma conta bancária (deve aparecer nas views)
+- [ ] Uma movimentação não pode ser registrada se ultrapassar o limite da conta
